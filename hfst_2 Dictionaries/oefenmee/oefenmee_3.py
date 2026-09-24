@@ -9,4 +9,4 @@ print(f"zijn naam is {persoonsinfo["naam"]} hij is {persoonsinfo["leeftijd"]} en
 # print(f"Deze persoon heeft {oogkleur} ogen.")
 
 naam = "Jan"
-print(persoonsinfo[naam])
+print(persoonsinfo["naam"])
